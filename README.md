@@ -2,6 +2,7 @@
 
 This repository contains several content around the legacy version of Gen7, developed from 2018 to 2021.
 Their presence are only for archival purposes, since this version is heavily experimental and completely obsolete. They're hosted on Github as it's the only platform that should allow them their existence in the long term, compared to the frequent changes I operate on my servers, domains, etc...
+Gen7 since grew a lot, not only technically speaking, but also in its content, in its organization, in its communication... Successes have been made, mistakes too, and it allowed me to learn a lot in these experiences. Hence the importance to archive and keep these assets. For the same reasons, the archive is only illustrative, and it doesn't represent what Gen7, or Leap Engine, are today. 
 
 Its not recommended to test the executables as their behavior and bugs are not completely known.
 
